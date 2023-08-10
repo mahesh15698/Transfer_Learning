@@ -1,4 +1,5 @@
 base_model.h5
+new_model.h5
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
