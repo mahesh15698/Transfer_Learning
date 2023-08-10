@@ -1,0 +1,10 @@
+### dependency
+tqdm
+pandas
+numpy
+PyYAML
+numpy
+tensorflow
+
+### local packages -
+# -e . # << uncomment this to install from setup.py
